@@ -1,8 +1,25 @@
 .big-text {
-    font-size:60px;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium';
 }
 
  p {
-        color: lightpink;
-       
-    } 
+    color: lightpink;
+}
+
+ db {
+    color: rgb(22, 12, 73);
+}
+
+body {
+    background-image: url('images/Main bg.png'); /* index.html */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: down center;
+}
+
+.medium-text {
+    font-size: 20px;
+    font-family: fantasy;
+    font-style: inherit;
+}
