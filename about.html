@@ -9,35 +9,62 @@
       <div class="big-text"> Click a picture to see its review!!! </div>
 
     </body>
-    <div class="container">
-        <div class="box">
-            <a href="fs.html">
-                <img src="images/fs.jpeg" alt="Fiver survive class="image">
-            </a>
-        </div>
-        <div class="box">
-            <a href="review2.html">
-                <img src="images/review2.jpg" alt="Review 2" class="image">
-            </a>
-        </div>
-        <div class="box">
-            <a href="review3.html">
-                <img src="images/review3.jpg" alt="Review 3" class="image">
-            </a>
-        </div>
-        <div class="box">
-            <a href="review4.html">
-                <img src="images/review4.jpg" alt="Review 4" class="image">
-            </a>
-        </div>
-        <div class="box">
-            <a href="review5.html">
-                <img src="images/review5.jpg" alt="Review 5" class="image">
-            </a>
-        </div>
-        <div class="box">
-            <a href="review6.html">
-                <img src="images/review6.jpg" alt="Review 6" class="image">
-            </a>
-        </div>
+
+<!-- Remove the broken/invalid HTML and CSS from the selection -->
+
+<!-- To make the whole background pink, add a style to the body tag -->
+<style>
+    body {
+        background-color: lightpink;
+    }
+    .container {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        flex-wrap: wrap;
+        padding: 20px;
+        border: 2px solid rgb(255, 130, 213);
+        border-radius: 10px;
+    }
+    /* Removed empty .box ruleset */
+    .image {
+        height: 335px;
+        width: 212px;
+        object-fit: fill;
+    }
+</style>
+
+<div class="container">
+    <div class="box">
+        <a href="thenatural.html">
+            <img src="images/tn.webp" alt="tn" class="image">
+        </a>
     </div>
+    <div class="box">
+        <a href="pjo.html">
+            <img src="images/pjo.webp" alt="pjo" class="image">
+        </a>
+    </div>
+    <div class="box">
+        <a href="agggtm.html">
+            <img src="images/agggtm.jpg" alt="agggtm" class="image">
+        </a>
+    </div>
+    <div class="box">
+        <a href=".html">
+            <img src="images/.jpg" alt="Review 5" class="image">
+        </a>
+    </div>
+    <div class="box">
+        <a href="review6.html">
+            <img src="images/tlt.jpeg" alt="Review 6" class="image">
+        </a>
+    </div>
+    <div class="box">
+        <a href="review7.html">
+            <img src="images/.jpeg" alt="Review 7" class="image">
+        </a>
+    </div>
+</div>
