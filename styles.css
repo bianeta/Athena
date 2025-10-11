@@ -11,19 +11,14 @@
     color: rgb(22, 12, 73);
 }
 body {
-    background-image: url('images/Main bg.png'); /* index.html */
+    background-image: url('images/Main bg.png'); /*  */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center down;
-    background-size: 100% auto    
 }
-
+      
 .medium-text {
     font-size: 20px;
     font-family: fantasy;
     font-style: inherit;
 }
-        .element-with-background {
-                background-image: none;
-            }
-
