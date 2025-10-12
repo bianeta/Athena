@@ -10,8 +10,14 @@
  db {
     color: rgb(22, 12, 73);
 }
-body {
-    background-image: url('images/Main bg.png'); /*  */
+
+.red-text {
+      color: maroon;
+    }
+ 
+
+body{
+    background-image: url('images/bgmain.jpg'); /*  */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center down;
@@ -22,3 +28,4 @@ body {
     font-family: fantasy;
     font-style: inherit;
 }
+
