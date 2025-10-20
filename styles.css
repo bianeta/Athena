@@ -15,14 +15,6 @@
       color: maroon;
     }
  
-
-body{
-    background-image: url('images/bgmain.jpg'); /*  */
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center down;
-}
-      
 .medium-text {
     font-size: 20px;
     font-family: fantasy;
