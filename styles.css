@@ -2,9 +2,9 @@
     font-size: 60px;
     font-family: 'Franklin Gothic Medium';
 
-
-  db {
-    color: rgb(22, 12, 73);
+  }
+    db {
+    color: rgb(24, 12, 83);
 }
 
   m {
@@ -12,6 +12,13 @@
     
 }
   
+
+  b {
+        color: rgb(125, 32, 26);
+    }
+    .warning {
+        color: brown;
+    }
 
 .medium-text {
     font-size: 20px;
@@ -24,7 +31,15 @@
 }
 
 
-a img {
-  border: none;
-  cursor: grab; 
+ 
   
+
+#blog-button {
+  background-image: url("/images/Redheart.png");
+  width: 400px;
+  height: auto;
+}
+
+#blog-button:hover {
+  background-image: url("/images/redstar.png");
+}
