@@ -7,8 +7,9 @@
     color: rgb(24, 12, 83);
 }
 
-  m {
-      color: rgb(110, 1, 1);
+  db{
+      color:darkblue
+    (110, 1, 1);
     
 }
   
@@ -34,12 +35,3 @@
  
   
 
-#blog-button {
-  background-image: url("/images/Redheart.png");
-  width: 400px;
-  height: auto;
-}
-
-#blog-button:hover {
-  background-image: url("/images/redstar.png");
-}
