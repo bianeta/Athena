@@ -1,1 +1,1 @@
-# Athena
+This project is for the Athena Award. I made a website where you can see my reviews on books. I choose this because I really love books, and I want to get better at voicing my own opinion on things. Since im a new coder I decided to do something easy like this website. I definitaly had a hard time figuring out what tags did what,and how to problem solve for coding. Either way I hope you enjoy my website and all the hard work I put into it.
